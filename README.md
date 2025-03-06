@@ -4,6 +4,35 @@
 
 - This project is a simple web development of a Financial Saving Dashboard -
 
+**1. Dashboard Overview:**
+    - Total savings, monthly income, and expenses at a glance
+    - Savings rate calculation
+    - Monthly savings and expenses chart
+    - Recent transactions list
+
+**2. Savings Goals:**
+    - Create and track multiple savings goals
+    - Visual progress indicators
+    - Target date tracking with days remaining
+    - Add funds functionality
+
+**3. Transcation History:**
+    - Categorized transactions
+    - Income vs expense visualization
+    - Date and amount tracking
+    - Category icons for quick identification
+
+**4. **Budget Management**
+    - Create and manage budget categories
+    - Track spending against budgeted amounts
+    - Visual representations with pie charts
+    - Progress bars for each category
+
+**5. **Responsive Design**
+    - Works on mobile, tablet, and desktop devices
+    - Tabbed interface for easy navigation
+    - Clean, professional financial interface
+
 Overview: 
 ![image](https://github.com/user-attachments/assets/f367c6df-0f59-4665-a8da-8776ebcafdc5)
 
