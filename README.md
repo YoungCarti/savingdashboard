@@ -12,11 +12,11 @@ Features:
    - Monthly savings and expenses chart
    - Recent transactions list
 
-**2. Saving Goals:**
-    - Create and track multiple savings goals
-    - Visual progress indicators
-    - Target date tracking with days remaining
-    - Add funds functionality
+**2. Savings Goals:**
+   - Create and track multiple savings goals
+   - Visual progress indicators
+   - Target date tracking with days remaining
+   - Add funds functionality
 
 **3. Transcation History:**
    - Categorized transactions
